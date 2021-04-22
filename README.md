@@ -5,8 +5,10 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi - Salut - Hallo - γεια - :wave:
 
-- 👋 Hi, I’m @ronnfran
-- 👀 I’m interested in Biomataterials, Bioinfomatics and IoT
-- 🌱 I’m currently learning Stress Analysis, Materials Science and Algorithm Analysis at Queensland Universiy of Technology
-- 💞️ I’m looking to collaborate on projects on IoT and FEA on biomechanical systems
-- 📫 How to reach me email > ronnfeldt.frank@gmail.com
+# Hi - Salut - Hallo - γεια :wave:
+
+I'm an Medical Engineering (Honors) student [@QUT](https://www.qut.edu.au/) looking for opprotunities to work in the medical engineering field
+- :telescope: I’m interested in Biomataterials :bone:, Bioinfomatics :dna: and IoT ::
+- hobbies include :game-controller: making video games, :flag: CTF and :mountain: mountain climbing!
+- 
+
