@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 * :telescope: I’m interested in Biomataterials :bone: Bioinfomatics :dna: and IoT :satellite:
 * :earth_asia: Active community member of: **Fellowship of Medical Engineers, White-Hat Hackers**
-* :seedling: Learning more about: **Open-source, React, CS Algorithms**
+* :seedling: Learning more about: **Information Security, Operating Systems, and Parallel Computing**
 * :game_die: Hobbies include making video games :video_game: capture-the-flag :triangular_flag_on_post: and mountain climbing :mountain: :exclamation:  
 
 #### Find me around the web :earth_asia:
